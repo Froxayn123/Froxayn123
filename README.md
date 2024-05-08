@@ -26,7 +26,7 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Froxayn123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Froxayn123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180 width=150/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froxayn123&layout=compact" height=180 />
 </p>
 
