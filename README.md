@@ -16,7 +16,7 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
+    - 🔭 I’m undergraduate 3rd years as Informatics Engineering Student at International Women University </br>
     - 🌱 I’m currently learning MongoDB, ExpressJS, ReactJS, NodeJS, TensorFlow.JS </br>
     - 👯 I’m looking to collaborate on Web Apps Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
