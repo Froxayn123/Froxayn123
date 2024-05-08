@@ -10,7 +10,7 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow.JS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ### Stats:
