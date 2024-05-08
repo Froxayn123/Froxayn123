@@ -32,9 +32,9 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
 
 ### Let's connect!
 <p>
-    <a href="https://rizky-personal-web.vercel.app" target="blank"><img src="https://img.shields.io/badge/Website-https://rizky-personal-web.vercel.app-green?" /></a>
-    <a href="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2/" target="blank"><img src="https://img.shields.io/badge/Rizky_Muhammad_Yusuf-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://www.instagram.com/708iki_/" target="blank"><img src="https://img.shields.io/badge/708iki_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://rizky-personal-web.vercel.app" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/708iki_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <!--
