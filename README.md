@@ -10,7 +10,7 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow.JS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -36,7 +36,7 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
 <p>
     <a href="https://rizky-personal-web.vercel.app" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/rizky-muhammad-yusuf-436b591b2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/708iki_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/froxayn123.webdev_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <!--
