@@ -11,7 +11,6 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -20,7 +19,7 @@ I'm Full-Stack Web Developer Enthusiast 👨‍💻. I used to design and build 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m undergraduate 3rd years as Informatics Engineering Student at International Women University </br>
-    - 🌱 I’m currently learning MongoDB, MySQL, ExpressJS, ReactJS, NodeJS, TensorFlow.JS </br>
+    - 🌱 I’m currently learning MongoDB, MySQL, ExpressJS, ReactJS, NodeJS, Machine Learning, AI </br>
     - 👯 I’m looking to collaborate on Web Apps Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
